@@ -1,5 +1,9 @@
 # 💫 Hi i'm Armando...
-Amante de la tecnología y entusiasta del código desde una edad temprana, decidí estudiar programación y convertirme en desarrollador full stack.<br><br>Me encanta explorar nuevas tecnologías, APIs y librerías que me ayuden a crear productos innovadores. He trabajado con una variedad de frameworks y lenguajes de programación, incluyendo JavaScript, Node.js, React y más.<br><br>Siempre estoy buscando nuevas maneras de aplicar la tecnología para resolver problemas y mejorar la vida de las personas. Creo que la programación es un superpoder y quiero usarlo para crear cosas que valgan la pena.<br><br>Me apasiona aprender continuamente y me complace colaborar con otros desarrolladores para ayudarnos mutuamente a mejorar nuestras habilidades. Me siento cómodo trabajando tanto en equipo como de forma independiente.<br><br>Disponible para consultas y colaboraciones. Mira mi perfil para obtener más información sobre mis trabajos y proyectos. Estoy abierto a nuevas oportunidades que requieran innovación y creatividad tecnológica.
+Technology lover and code enthusiast since a young age, I decided to study programming and become a full stack developer.<br><br>
+I enjoy exploring new technologies, APIs, and libraries that help me create innovative products. I have worked with a variety of frameworks and programming languages, including JavaScript, Node.js, React, and more.<br><br>
+I am always looking for new ways to apply technology to solve problems and improve people's lives. I believe that programming is a superpower and I want to use it to create things that matter.<br><br>
+I am passionate about continuous learning and happy to collaborate with other developers to help each other improve our skills. I feel comfortable working both in a team and independently.<br><br>
+Available for inquiries and collaborations. Check out my profile for more information about my work and projects. I am open to new opportunities that require technological innovation and creativity.
 
 
 ## 🌐 Socials:
