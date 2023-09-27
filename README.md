@@ -1,10 +1,9 @@
 ![imagen banner](./Image/banner.png)
 # 💫 Hi i'm Armando...
-
 As a developer, I am passionate about exploring new technologies, APIs, and libraries that allow me to create innovative products. I have worked with various frameworks and programming languages, including JavaScript, Node.js, React, and many more.<br><br>
-My goal is to apply technology to solve problems and improve people's lives. I firmly believe that programming is a superpower and I want to use it to create things that really matter.<br><br>
 I consider myself a constant learner and enjoy collaborating with other developers to help each other improve our skills. I feel comfortable working both in a team and independently.<br><br>
-**If you are looking for a passionate and committed developer, don't hesitate to contact me! I am always looking for new challenges and opportunities to grow professionally.**
+
+> "If you are looking for a passionate and committed developer,don't hesitate to contact me! I am always looking for new challenges and opportunities to grow professionally".
 
 # 🌐 Socials:
 - Follow me on:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armando-martínez-zambrano).
